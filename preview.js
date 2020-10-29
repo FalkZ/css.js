@@ -32,7 +32,7 @@ const createPreview = (str) => {
   d.style.overflow = "auto";
   const setBody = (str) => {
     d.src =
-      `${window.location.origin}/preview.html?execute=` +
+      `./preview.html?execute=` +
       encodeURIComponent(`
     <head>
         <link
