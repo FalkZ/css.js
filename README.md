@@ -9,4 +9,4 @@ Use them with:
 <link rel="stylesheet" href="./white.css" />
 ```
 
-[Demo](falkz.github.io/css.js/)
+[Demo](https://falkz.github.io/css.js/)
