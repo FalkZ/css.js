@@ -43,8 +43,8 @@ const createPreview = (str) => {
         defer
         src="https://unpkg.com/focus-visible@5.1.0/dist/focus-visible.js"
     ></script>
-    <script defer src="${window.location.origin}/css.js"></script>
-    <link rel="stylesheet" href="${window.location.origin}/white.css" />
+    <script defer src="${window.location.href}css.js"></script>
+    <link rel="stylesheet" href="${window.location.href}white.css" />
  
     </head>
     <body style=" min-height: auto"><div>${str}</div></body>`);
