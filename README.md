@@ -1,12 +1,6 @@
-# UI Components
+# <img src="./logo.svg" alt="logo" height="30px"> flowout.js <sup>beta</sup>
+> the batteries included layout engine
 
-These are a collection of standard styles and ui components.
+Never again want to hassle with css layouts?
 
-Use them with:
-
-```html
-<script defer src="./css.js"></script>
-<link rel="stylesheet" href="./white.css" />
-```
-
-[Demo](https://falkz.github.io/css.js/)
+Check it out at [flowout.js.org](https://flowout.js.org).
